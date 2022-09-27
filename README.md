@@ -1,0 +1,2 @@
+# BertMotivation
+结合图文方式对Bert模型的结构和内部变换进行详细说明
